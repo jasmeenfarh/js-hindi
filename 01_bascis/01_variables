@@ -1,0 +1,17 @@
+const accountId = 12345
+let accountEmail = "farhatjasmeen";
+var accountPassword = "123"
+accountCity = "rawalpindi"
+
+//accountId = 23// not allowed
+
+
+accountEmail = "jasmeen@gmail"
+accountPassword = "001"
+accountCity = "Mardan"
+console.table([accountEmail, accountPassword, accountCity]);
+
+
+
+
+
